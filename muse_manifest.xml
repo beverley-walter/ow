@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter-ow.github.io" resolutions="1x" timestamp="1557817436763">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/ow" resolutions="1x" timestamp="1557818349910">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4268626123" ref="case-studies:index:side-hustle:personal-details---cv:references"/>
     <file name="case-studies.css" crc="4129360261" ref="case-studies"/>
     <file name="iefonts_case-studies.css" crc="3933949831" ref="case-studies"/>
-    <file name="index.css" crc="432644485" ref="index"/>
-    <file name="iefonts_index.css" crc="3787892137" ref="index"/>
+    <file name="index.css" crc="4146131626" ref="index"/>
+    <file name="iefonts_index.css" crc="450912746" ref="index"/>
     <file name="side-hustle.css" crc="3996346760" ref="side-hustle"/>
     <file name="iefonts_side-hustle.css" crc="3947606882" ref="side-hustle"/>
     <file name="personal-details---cv.css" crc="440662171" ref="personal-details---cv"/>
     <file name="iefonts_personal-details---cv.css" crc="4281278510" ref="personal-details---cv"/>
-    <file name="references.css" crc="336766758" ref="references"/>
+    <file name="references.css" crc="49213996" ref="references"/>
     <file name="iefonts_references.css" crc="4184945849" ref="references"/>
   </folder>
   <folder name="scripts">
@@ -94,6 +94,6 @@
   <file name="personal-details---cv.html" crc="3773392545" seo="true" mt="1557697425928" redirect="true"/>
   <file name="case-studies.html" crc="4126299291" seo="true" mt="1557697425928" redirect="true"/>
   <file name="side-hustle.html" crc="518443564" seo="true" mt="1557697425928" redirect="true"/>
-  <file name="references.html" crc="4242167425" seo="true" mt="1557697425928" redirect="true"/>
-  <file name="index.html" crc="4083164413" seo="true" mt="1557697425928" redirect="true"/>
+  <file name="references.html" crc="246490380" seo="true" mt="1557817645924" redirect="true"/>
+  <file name="index.html" crc="3761073488" seo="true" mt="1557818263606" redirect="true"/>
 </manifest>
